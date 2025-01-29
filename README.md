@@ -5,6 +5,18 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">
+  I'm continuously refining my skills, approaching every project with precision and purpose. I focus on understanding problems deeply, structuring efficient solutions, and writing clean, maintainable code. Testing and debugging are integral to my process, ensuring reliability in everything I build. With an endless passion for learning, I’m constantly exploring new technologies and best practices to improve and grow as a developer. The journey never stops—I'm always evolving. 🚀
+</p>
+
+<p align="left">💻 Passionate about Technology – Always eager to explore and stay updated with the latest advancements in tech.<br>🎓 Computer Science Student at KNUST – Building a strong foundation in programming, software development, and problem-solving.<br>🤝 Open to Collaborations – Ready to contribute to innovative projects, share knowledge, and learn from others.<br>🚀 Tech Enthusiast – Excited about AI, software engineering, and emerging technologies that shape the future.<br>🛠️ Hands-on Learner – Enjoy working on real-world projects, coding, and experimenting with new technologies.<br>📌 Driven & Adaptable – Always up for a challenge and committed to continuous learning and growth.</p>
+
+###
+
 <div align="center">
   <img src="./images/social/socials.png" />
 </div>
@@ -14,18 +26,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<h1 align="center">Hi, I'm Japhet</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">💻 Passionate about Technology – Always eager to explore and stay updated with the latest advancements in tech.<br>🎓 Computer Science Student at KNUST – Building a strong foundation in programming, software development, and problem-solving.<br>🤝 Open to Collaborations – Ready to contribute to innovative projects, share knowledge, and learn from others.<br>🚀 Tech Enthusiast – Excited about AI, software engineering, and emerging technologies that shape the future.<br>🛠️ Hands-on Learner – Enjoy working on real-world projects, coding, and experimenting with new technologies.<br>📌 Driven & Adaptable – Always up for a challenge and committed to continuous learning and growth.</p>
 
 ###
 
@@ -54,7 +54,9 @@
 </div>
 
 ###
+
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Jay-Adjei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -62,7 +64,6 @@
 <!-- Bottom animation -->
 <div align="left">
   <img width="50" height="50" src="./images/animation/bottom_animation.gif" loading="eager" decoding="async" title="Bottom animation"/>
-  <img width="89%"/>
+  <img width="85%"/>
   <img width="50" height="50" src="./images/animation/bottom_animation.gif" loading="eager" decoding="async" title="Bottom animation"/>
 </div>
-
