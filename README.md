@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="./images/social/Socials.png" />
+  <img src="./images/social/socials.png" />
 </div>
 
 <div align="center">
