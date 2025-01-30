@@ -6,6 +6,10 @@
 ###
 
 <div align="center">
+  <img width="400" src="./images/social/Socials.png" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -50,22 +54,15 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jay-adjei&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jay-Adjei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- bottom animation -->
+<!-- Bottom animation -->
 <div align="left">
-  <img width="50" height="50" src="./images/animation/bottom_animation.gif"  loading="eager" decoding="async" title="Bottom animation"/>
+  <img width="50" height="50" src="./images/animation/bottom_animation.gif" loading="eager" decoding="async" title="Bottom animation"/>
+  <img width="89%"/>
+  <img width="50" height="50" src="./images/animation/bottom_animation.gif" loading="eager" decoding="async" title="Bottom animation"/>
 </div>
+
