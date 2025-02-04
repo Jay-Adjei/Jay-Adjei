@@ -22,9 +22,18 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/japhet-adofo-adjei-347706256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="./images/social/linkdin.png" height="100%" alt="linkedin logo" title="Japhet's Linkdin Profile" loading="eager" decoding="async" />
+  </a>
+  <a href="https://www.instagram.com/_.mr.adjei/" target="_blank">
+    <img src="./images/social/instagram.png" height="100%" alt="instagram logo" title="Japhet's Instagram Profile" loading="eager" decoding="async" />
+  </a>
+  <a href="https://x.com/Adjei_Japhet_" target="_blank">
+    <img src="./images/social/x.png" height="100%" alt="X logo" title="Japhet's X Profile" loading="eager" decoding="async" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199261506905/" target="_blank">
+    <img src="./images/social/steam.png" height="100%" alt="Steam logo" title="Japhet's Steam Profile" loading="eager" decoding="async" />
+  </a>
 </div>
 
 ###
@@ -56,6 +65,7 @@
 ###
 
 # 📊 GitHub Stats:
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jay-Adjei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
