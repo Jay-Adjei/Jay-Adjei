@@ -56,8 +56,10 @@
 ###
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Jay-Adjei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+<imag src="https://github-readme-stats.vercel.app/api?username=Jay-Adjei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
+</div>
+<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
